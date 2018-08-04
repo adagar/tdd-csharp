@@ -1,0 +1,1 @@
+http://vsrefactoringessentials.com/Features/All#collapseCSharpRefactorings
