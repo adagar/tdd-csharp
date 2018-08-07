@@ -1,0 +1,51 @@
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\bin\Debug\System.ValueTuple.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalse.ViewModels\obj\Debug\TrueOrFalse.ViewModels.pdb

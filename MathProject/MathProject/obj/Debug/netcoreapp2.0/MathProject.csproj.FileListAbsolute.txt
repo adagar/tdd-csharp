@@ -1,0 +1,15 @@
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\MathProject.deps.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\MathProject.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\MathProject.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.csprojAssemblyReference.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.AssemblyInfoInputs.cache
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.AssemblyInfo.cs
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\obj\Debug\netcoreapp2.0\MathProject.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\MathProject.runtimeconfig.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\MathProject.runtimeconfig.dev.json
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\A Nick Garza\Desktop\CareerDevs\tdd-csharp\MathProject\MathProject\bin\Debug\netcoreapp2.0\Mono.Cecil.dll

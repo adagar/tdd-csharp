@@ -1,0 +1,18 @@
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\TrueOrFalse.Models\obj\Debug\TrueOrFalse.Models.pdb

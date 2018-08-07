@@ -1,0 +1,156 @@
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\MainView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.lref
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\App.g.cs
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe.config
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.DataGrid.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.Toolkit.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.xml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\MainView.baml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\App.baml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.g.resources
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.GenerateResource.Cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.pdb
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\ShellView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\ShellView.baml
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.Views.Properties.Resources.resources
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GameView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\01-WPF - Essentials\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GameView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe.config
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.DataGrid.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.Toolkit.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GameView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\MainView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GameView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\MainView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\ShellView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\App.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.lref
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\App.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\ShellView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.g.resources
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.Views.Properties.Resources.resources
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.GenerateResource.Cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe.config
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Castle.Core.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\System.Windows.Interactivity.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.DataGrid.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Xceed.Wpf.Toolkit.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.ViewModels.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\TrueOrFalse.Models.pdb
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Caliburn.Micro.Platform.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Castle.Core.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\Castle.Windsor.xml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csprojResolveAssemblyReference.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\GameView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\MainView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\GameView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\MainView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\ShellView.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\App.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse_MarkupCompile.lref
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\App.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\ShellView.baml
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.g.resources
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.Views.Properties.Resources.resources
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.GenerateResource.Cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.exe
+Q:\OneDrive\Documents\Udemy-Course\12-TDD-App\TrueOrFalseMVVM-Current\TrueOrFalseMVVM\obj\Debug\TrueOrFalse.pdb
